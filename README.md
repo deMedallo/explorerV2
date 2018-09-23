@@ -1,6 +1,6 @@
-# ETHExplorer V2 based off github.com/etherparty/explorer
+# DMExplorer V2 based off github.com/etherparty/explorer
 
-![ETHExplorer V2 Screenshot](http://i.imgur.com/wgROAS9.png)
+![DMExplorer V2 Screenshot](http://i.imgur.com/kR8CtR1.png)
 
 ## License
 
@@ -8,15 +8,11 @@ The code in this branch is licensed under GPLv3 (see LICENSE file)
 
 Feel free to modify or reuse the code here.
 
-## Reddit
-
-Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/ethereum/comments/511j5a/new_ethereum_block_explorer_heavily_updated/)
-
 ## Donations
 
-ETH Address: 0xee298ae561bD7BE6e1040AFf281202E0b0646BA6
+ETH Address: 
 
-BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
+BTC Address: 
 
 ## Installation
 
